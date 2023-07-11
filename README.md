@@ -1,5 +1,5 @@
 # Youtube-clone
 HTML and CSS
 
-project was done by following  SuperSimpleDev youtube channel
+ The project was done by following  SuperSimpleDev youtube channel
 
